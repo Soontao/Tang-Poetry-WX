@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="poetry" bindtap="next">
+    <text class="title">{{title}}</text>
+    <text class="poet">{{poet}}</text>
+    <text >{{poetry}}</text>
+  </view>
+</view>

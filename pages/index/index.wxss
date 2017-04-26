@@ -1,0 +1,17 @@
+/**index.wxss**/
+
+.container {
+  margin-top: 20%;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+.poet {
+  margin-left: 39%;
+}
+
+.poetry {
+  text-align: center;
+}
